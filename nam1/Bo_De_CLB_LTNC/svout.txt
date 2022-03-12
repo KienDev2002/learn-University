@@ -1,0 +1,8 @@
+
+1          Ngo Trung Kien                 A                    9.00      
+2          Ngo Van Duy                    C                    10.00     
+3          Ngo Thi Loan                   B                    7.50      
+4          Ngo Van A                      C                    9.00      
+5          Ngo Thi B                      A                    8.50      Nhap sinh vien       can kiem tra tu ban phim 
+
+Sinh vien nay khong co trong danh sach

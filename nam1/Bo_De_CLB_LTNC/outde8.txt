@@ -1,0 +1,9 @@
+
+Tong diem cua truong A la: 22.00
+Tong diem cua truong B la: 20.00
+Tong diem cua truong C la: 45.00
+Truong B co diem thap nhat
+ 3 TS co diem cao nhat la: 
+1     Ngo Duy                   30.00          C
+2     Ngo Loan                  20.00          B
+3     Ngo Kien                  15.00          A

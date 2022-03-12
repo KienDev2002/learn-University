@@ -1,0 +1,8 @@
+
+       ngo       kien          A    8.60    9.00    7.50
+       ngo       loan          D    5.60    9.60    7.00
+       ngo        duy          A    5.60    9.00    6.50
+       ngo       kien          A    8.60    9.00    7.50
+       ngo        duy          A    5.60    9.00    6.50
+       ngo       kien          A    8.60    9.00    7.50
+       ngo       loan          D    5.60    9.60    7.00

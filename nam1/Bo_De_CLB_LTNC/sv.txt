@@ -1,0 +1,18 @@
+4 100000
+HH
+Ngo Trung Kien
+19
+2000000
+LL
+Ngo Van Duy
+20
+600000
+PP
+Ngo Thi Loan
+15
+5000000
+UU
+Ngo Chi Cuong
+15
+1200000
+

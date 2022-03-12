@@ -1,0 +1,7 @@
+- Ma tran co 3 hang 3 cot: 
+5.00	-7.00	6.00	
+8.00	-2.00	9.00	
+-7.00	4.00	-5.00	
+
+TBC cua cac gia tri am la: -5.25
+gia tri am lon nhat la: -2.00 nam hang 2 cot 2

@@ -1,0 +1,8 @@
+- Co 3 HCN: 
+chieu dai hinh 1 la: 4.00
+chieu rong hinh 1 la: 5.00
+chieu dai hinh 2 la: 6.00
+chieu rong hinh 2 la: 4.00
+chieu dai hinh 3 la: 2.00
+chieu rong hinh 3 la: 3.00
+

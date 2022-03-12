@@ -1,0 +1,21 @@
+- Ma tran A co 4 x 4 la: 
+4.00	0.00	0.00	0.00	
+1.00	5.00	0.00	0.00	
+5.00	2.00	2.00	0.00	
+8.00	1.00	2.00	3.00	
+
+Tong hang 1 la: 4.00	
+Tong hang 2 la: 6.00	
+Tong hang 3 la: 9.00	
+Tong hang 4 la: 14.00	
+Tong hang co gia tri nho nhat la: hang 1
+Tong hang co gia tri lon nhat la: hang 4
+Tong cot 1 la: 18.00	
+Tong cot 2 la: 8.00	
+Tong cot 3 la: 4.00	
+Tong cot 4 la: 3.00	
+Tong cot co gia tri lon nhat la: cot 1
+Tong cot co gia tri nho nhat la: cot 4
+Tong cac so chan chia 3 du 1 la: 4.00
+Tong duong cheo chinh la: 14.00
+Tong duong cheo phu la: 10.00

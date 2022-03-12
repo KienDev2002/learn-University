@@ -1,0 +1,13 @@
+
+ Thong ke cac sach: 
+ STT        Ten Sach                       Nam Xuat Ban                   Gia                 
+ 1          Mat Biec                       2012                           15000               
+ 2          Ben khong chong                2000                           12000               
+ 3          Dat rung phuong nam            2013                           20000               
+ TBC= 17500
+Co trong ds
+ Thong ke cac sach tang dan theo gia: 
+ STT        Ten Sach                       Nam Xuat Ban                   Gia                 
+ 1          Ben khong chong                2000                           12000               
+ 2          Mat Biec                       2012                           15000               
+ 3          Dat rung phuong nam            2013                           20000               

@@ -1,0 +1,24 @@
+4
+10
+MK
+Ngo kien
+fresber
+25
+9
+NH
+Ngo Duy
+senior
+10
+7
+AK
+Ngo Loan
+junior
+15
+15
+OP
+Ngo Cuong
+senior
+9
+10
+
+

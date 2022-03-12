@@ -1,0 +1,13 @@
+
+1     HT                   Ngo Kien   12         A         
+2     HK                   Ngo Duy    15         C         
+3     HM                   Ngo Loan   17         B         
+4     HL                   Ngo K      15         A         
+5     HD                   Ngo D      20         C         
+6     HR                   Ngo L      18         B         
+1     HD                   Ngo D      20         C         
+2     HR                   Ngo L      18         B         
+3     HM                   Ngo Loan   17         B         
+4     HK                   Ngo Duy    15         C         
+5     HL                   Ngo K      15         A         
+6     HT                   Ngo Kien   12         A         

@@ -1,0 +1,10 @@
+
+ GTLN cua a: 5
+
+ GTLN cua b: 6
+- a giam dan:
+5	2	1	
+- b giam dan:
+6	4	2	-8	
+Day a tat ca cac phan tu ko la chan
+Day b tat ca la chan

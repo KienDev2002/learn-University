@@ -1,0 +1,5 @@
+Danh sach sinh vien:
+   STT                         Ho ten               Truong              Diem
+     1                 ngo trung kien                  UTC               9.0
+     2                   ngo thi loan                 HUST               9.0
+     3                    ngo van duy                  NEU               8.0

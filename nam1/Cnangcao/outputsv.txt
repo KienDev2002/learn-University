@@ -1,0 +1,10 @@
+  STT                    Ho ten         So diem          Truong
+    1                       eff            1.00               2
+    2                     wdad3            4.00               5
+    3                    asdasd            6.00               2
+Khong tim thay truong so 3 vui long nhap lai k!
+Danh sach sinh vien giam dan theo so diem la: 
+  STT                    Ho ten         So diem          Truong
+    1                    asdasd            6.00               2
+    2                     wdad3            4.00               5
+    3                       eff            1.00               2

@@ -1,0 +1,6 @@
+- Co 3 diem
+(0.00, 4.00) , (0.00, 6.00) , (0.00, 9.00).
+ Khoang cach cua diem thu 1 den truc hoang la: 4.00
+ Khoang cach cua diem thu 2 den truc hoang la: 6.00
+ Khoang cach cua diem thu 3 den truc hoang la: 9.00
+ Do dai lon nhat la: 5.00

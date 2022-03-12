@@ -1,0 +1,7 @@
+
+Co 1 oto cua cty B co BKS chia het cho 3
+ Thong ke 3 oto TT nho nhat la: 
+ STT        Bien kiem soat       Trong tai            Cong ty             
+ 1          32                   2.50                 B                   
+ 2          12                   7.50                 B                   
+ 3          10                   8.50                 A                   

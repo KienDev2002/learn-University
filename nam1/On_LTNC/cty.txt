@@ -1,0 +1,26 @@
+6
+HT
+Ngo Kien
+12
+A
+HK
+Ngo Duy
+15
+C
+HM
+Ngo Loan
+17
+B
+HL
+Ngo K
+15
+A
+HD
+Ngo D
+20
+C
+HR
+Ngo L
+18
+B
+

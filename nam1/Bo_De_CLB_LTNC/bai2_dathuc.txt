@@ -1,0 +1,25 @@
+4
+MK
+Ngo kien
+B
+9
+9
+10
+NH
+Ngo Duy
+A
+9
+9
+10
+AK
+Ngo Loan
+C
+7
+9
+10
+OP
+Ngo Cuong
+B
+9
+9
+10

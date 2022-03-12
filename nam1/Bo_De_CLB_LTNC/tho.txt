@@ -1,0 +1,25 @@
+4
+HH
+Ngo kien
+18
+Ha Noi
+18
+10
+KK
+Ngo Duy
+28
+Hai Van
+30
+10
+AA
+Ngo Loan
+30
+Hai Bac
+30
+15
+KK
+Ngo Cuong
+12
+Ha Noi
+28
+7

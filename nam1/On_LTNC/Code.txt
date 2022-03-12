@@ -1,0 +1,17 @@
+5
+Ngo Trung Kien
+8
+A1
+Ngo Thi Loan
+7
+A3
+Ngo Van Duy
+9
+A2
+Ngo Thi A
+8.5
+A2
+Ngo Van B
+10
+A1
+

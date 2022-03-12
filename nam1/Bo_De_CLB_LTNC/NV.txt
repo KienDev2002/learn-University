@@ -1,0 +1,18 @@
+5
+Ngo Kien
+15
+A
+Ngo Duy
+30
+C
+Ngo Loan
+20
+B
+Ngo Duy AC
+15
+C
+Ngo Loan PC
+7
+A
+
+
